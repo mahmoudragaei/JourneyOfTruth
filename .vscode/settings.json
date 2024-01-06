@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/65d28cf8-3e02-4976-87f5-68528b07af7d/resourceGroups/DrAmrElWerdany/providers/Microsoft.Web/sites/DrAmrElWerdanyServey",
+    "appService.deploySubpath": "."
+}
