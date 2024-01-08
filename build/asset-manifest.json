@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JourneyOfTruth/static/css/main.1c32ac1c.css",
+    "main.js": "/JourneyOfTruth/static/js/main.d551786d.js",
+    "index.html": "/JourneyOfTruth/index.html",
+    "main.1c32ac1c.css.map": "/JourneyOfTruth/static/css/main.1c32ac1c.css.map",
+    "main.d551786d.js.map": "/JourneyOfTruth/static/js/main.d551786d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c32ac1c.css",
+    "static/js/main.d551786d.js"
+  ]
+}
